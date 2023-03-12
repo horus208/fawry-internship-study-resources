@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "063b1df526e4aead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day-01-tokyo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day-01.md",
+                "file": "day-01-tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day-01.md",
+                "file": "day-01-tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day-01.md"
+                "file": "day-01-tokyo.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf09501e96c6fc58",
+  "active": "063b1df526e4aead",
   "lastOpenFiles": [
-    "day-01.md"
+    "day-01.md",
+    "day-01-tokyo.md"
   ]
 }
