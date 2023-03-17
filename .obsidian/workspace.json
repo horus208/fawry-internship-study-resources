@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ba43eb8f30fb6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9828e2682440cb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62aa8475ccef615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day-02-tokyo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day-01-tokyo.md",
+                "file": "day-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day-01-tokyo.md",
+                "file": "day-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day-01-tokyo.md"
+                "file": "day-02.md"
               }
             }
           }
@@ -159,9 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "063b1df526e4aead",
+  "active": "9828e2682440cb09",
   "lastOpenFiles": [
+    "day-02-tokyo.md",
     "day-01.md",
-    "day-01-tokyo.md"
+    "day-02.md",
+    "day-01-tokyo.md",
+    "java-holes-tokyo.md"
   ]
 }
